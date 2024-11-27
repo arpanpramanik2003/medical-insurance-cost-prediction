@@ -2,7 +2,7 @@
 
 ## Project Structure
 
-|-- insurance_model.pkl # Saved model using Pickle |-- insurance_app.py # Streamlit application code |-- README.md # Project documentation |-- requirements.txt # Required Python packages |-- Dataset/ |-- insurance.csv # Dataset for training
+-- insurance_model.pkl # Saved model using Pickle -- insurance_app.py # Streamlit application code -- README.md # Project documentation -- requirements.txt # Required Python packages -- Dataset/ -- insurance.csv # Dataset for training
 
 
 ## Features
