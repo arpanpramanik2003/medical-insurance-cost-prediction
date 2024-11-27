@@ -1,4 +1,5 @@
 # Medical_Insurance_Cost_Prediction-Streamlit
+![Medical_Insurance_Cost_Prediction-Streamlit](medical.jpg)
 
 ## Project Structure
 - insurance_model.pkl # Saved model using Pickle
