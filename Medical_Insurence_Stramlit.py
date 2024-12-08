@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 
 # Load the trained model
-with open('P:/Documents(p)/Python_Advance/ML Project/Medical_Insurance_cost_Prediction/insurance_model.pkl', 'rb') as file:
+with open('insurance_model.pkl', 'rb') as file:
     model = pickle.load(file)
 
 # Title and description
