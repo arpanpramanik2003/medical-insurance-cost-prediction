@@ -37,4 +37,4 @@ if st.button('Predict Charges'):
     prediction = model.predict(input_data)
 
     # Display result
-    st.success(f'Estimated Insurance Charges: ${prediction[0]:.2f}')
+    st.success(f'Estimated Insurance Charges: ₹ {prediction[0]:.2f}')
